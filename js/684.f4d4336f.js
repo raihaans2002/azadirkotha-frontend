@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksoftware"]=self["webpackChunksoftware"]||[]).push([[684],{6684:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=r(8194);function t(n,e){return(0,u.uX)(),(0,u.CE)("div",null,e[0]||(e[0]=[(0,u.Lk)("h2",null,"Lost in Space ?",-1)]))}var a=r(4886);const s={},c=(0,a.A)(s,[["render",t]]);var f=c}}]);
+//# sourceMappingURL=684.f4d4336f.js.map
